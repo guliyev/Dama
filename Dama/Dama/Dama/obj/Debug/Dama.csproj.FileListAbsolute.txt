@@ -1,0 +1,10 @@
+C:\Users\GN\Desktop\Dama\Dama\Dama\bin\Debug\Dama.exe.config
+C:\Users\GN\Desktop\Dama\Dama\Dama\bin\Debug\Dama.exe
+C:\Users\GN\Desktop\Dama\Dama\Dama\bin\Debug\Dama.pdb
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.csprojResolveAssemblyReference.cache
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.Properties.Resources.resources
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.csproj.GenerateResource.Cache
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.exe
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.pdb
+C:\Users\GN\Desktop\Dama\Dama\Dama\obj\Debug\Dama.Dama.resources
